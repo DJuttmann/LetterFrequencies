@@ -15,7 +15,7 @@ to sort the table by unicode value (default) or by frequency.
 Command line parameters:
   LetterFrequencies.exe <input file> [-o <output file>] [-sort <sorting mode>]
 Sorting modes:
-  uni = sort by unicode, 
+  uni = sort by unicode
   freq = sort by frequency
 
 -- SAMPLE TEXTS --
